@@ -1,1 +1,1 @@
-[('Taxi Driver', 'Martin Scorsese', 1976), ('Taxi Driver', 'Martin Scorsese', 1976), ('Pulp Fiction', 'Tarantino', 1994), ('Back to the Future', 'Spielberg', 1985), ('Moonrise Kingdom', 'Anderson', 2012), ('Pulp Fiction', 'Tarantino', 1994), ('Back to the Future', 'Spielberg', 1985), ('Moonrise Kingdom', 'Anderson', 2012), ('Pulp Fiction', 'Tarantino', 1994), ('Back to the Future', 'Spielberg', 1985), ('Moonrise Kingdom', 'Anderson', 2012)]
+[('Back to the Future', 'Spielberg', 1985), ('Back to the Future', 'Spielberg', 1985), ('Back to the Future', 'Spielberg', 1985)]
